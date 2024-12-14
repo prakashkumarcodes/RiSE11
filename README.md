@@ -169,11 +169,4 @@ git push origin feature-name
 
 
 
-# Contact
-
-For any questions or suggestions, feel free to reach out:
-
-Email: shivamkrmnnit@gmail.com
-
-[@ShivamKumar](https://github.com/shivamkrmnnit)
 
